@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder (if inside project)
+env/
+venv/
+python-env/
+
+# IDE/editor folders (optional)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other common ignores
+*.sqlite3
+*.db
+*.log
+
